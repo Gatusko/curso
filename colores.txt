@@ -1,4 +1,3 @@
-morado
 rojo
 amarillo
 verde
