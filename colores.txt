@@ -1,4 +1,4 @@
-rojo
+1. rojo
 amarillo
 verde
 azul
