@@ -2,3 +2,4 @@ morado
 rojo
 amarillo
 verde
+azul
